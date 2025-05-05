@@ -1,8 +1,8 @@
-Assessment Name,Description,Job Families,Job Levels,Industries,Competencies Measured,Assessment Type
-OPQ (Occupational Personality Questionnaire),Personality profiling for job fit,All,Entry|Mid|Senior,All,Leadership|Teamwork|Resilience,Personality
-Verify G+,Cognitive ability and problem solving,IT|Finance|Engineering,Entry|Mid,Tech|Finance,Problem Solving|Logical Thinking,Cognitive
-Situational Judgement Test,Real-life workplace scenarios to assess decision-making,Customer Service|Sales|HR,Entry|Mid,Retail|Services,Judgement|Empathy|Communication,Behavioral
-Numerical Reasoning,Numerical data interpretation and logic,Finance|Operations,Entry|Mid|Senior,Finance|Retail,Quantitative Reasoning,Cognitive
-Coding Simulation,Assesses programming skills,IT|Engineering,Entry|Mid,Tech,Coding|Debugging|Logic,Skills
-Excel Skills Test,Tests practical Excel usage,Clerical|Operations,Entry|Mid,All,Excel|Data Analysis,Skills
-Leadership Simulation,Simulates executive-level decisions,Management|HR,Senior|Executive,All,Leadership|Strategic Thinking,Simulation
+Assessment Name,URL,Remote Testing Support,Adaptive/IRT Support,Duration,Test Type
+Java Developer Assessment,https://www.shl.com/java-dev,Yes,Yes,40,Technical
+Collaborative Skills Test,https://www.shl.com/collab-skills,Yes,No,30,Behavioral
+Full Stack Developer Assessment,https://www.shl.com/full-stack,Yes,Yes,60,Technical
+Data Skills Test,https://www.shl.com/data-skills,Yes,No,45,Technical
+Cognitive Ability Test,https://www.shl.com/cognitive,Yes,Yes,25,Cognitive
+Situational Judgment Test,https://www.shl.com/sjt,Yes,No,20,Behavioral
+Personality Questionnaire,https://www.shl.com/personality,Yes,No,30,Personality
